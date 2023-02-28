@@ -1,0 +1,1 @@
+export {default as HomePageData} from "./HomePageData.svg"
